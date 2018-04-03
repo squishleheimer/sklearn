@@ -16,3 +16,5 @@ Working through [Josh Gordon's playlist](https://www.youtube.com/playlist?list=P
 http://scikit-learn.org/stable/modules/tree.html#tree
 
 ### #3 What Makes a Good Feature?
+
+### #4 Let's Write a Pipeline
