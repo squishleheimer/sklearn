@@ -11,9 +11,9 @@ Working through [Josh Gordon's playlist](https://www.youtube.com/playlist?list=P
 
 ### Visualisation
 
+- `cup -y Graphviz`
 - `conda install python-graphviz`
 - `conda install pydot`
-- `cup -y Graphviz`
 
 ## Episode links
 
@@ -25,6 +25,8 @@ Working through [Josh Gordon's playlist](https://www.youtube.com/playlist?list=P
 
 - <http://scikit-learn.org/stable/modules/tree.html#tree>
 
-### #3 What Makes a Good Feature?
-
 ### #4 Let's Write a Pipeline
+
+- <http://playground.tensorflow.org>
+
+### #6 Train an Image Classifier with TensorFlow for Poets
