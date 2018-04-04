@@ -30,3 +30,9 @@ Working through [Josh Gordon's playlist](https://www.youtube.com/playlist?list=P
 - <http://playground.tensorflow.org>
 
 ### #6 Train an Image Classifier with TensorFlow for Poets
+
+- <http://scikit-learn.org/stable/modules/neighbors.html>
+- TensorFlow for Poets Codelab: <https://goo.gl/QTwZ3v>
+- Google’s Udacity class on Deep Learning: <https://goo.gl/iRqXsy>
+- TensorFlow tutorial: <https://www.tensorflow.org/tutorials/layers>
+- Google Research blog on Inception: <https://goo.gl/CSrfJ1>
